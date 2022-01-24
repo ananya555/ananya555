@@ -29,7 +29,7 @@
 </p>
 
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ananyagoel555)](https://github.com/KnlnKS/leetcode-stats)
+(https://leetcode-stats-six.vercel.app/api?username=ananyagoel555)](https://github.com/KnlnKS/leetcode-stats)
 
 
 <h3 align="left">Languages and Tools:</h3>
