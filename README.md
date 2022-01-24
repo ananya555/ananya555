@@ -23,8 +23,6 @@
 <a href="https://www.leetcode.com/ananyagoel555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ananyagoel555" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/btbtl19036ananya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="btbtl19036ananya" height="30" width="40" /></a>
 
-
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ananyagoel555)](https://github.com/KnlnKS/leetcode-stats)
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ananyagoel555&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
   
 <h3 align="left">Languages and Tools:</h3>
