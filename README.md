@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ananya555" alt="ananya555" /></a> </p>
 
-- 🔭 I’m currently working on **My coding skills, some frontend stuff like HTML and CSS**
+- 🔭 I’m currently working on **My coding skills and on my cryptocurrency project**
 
-- 🌱 I’m currently learning **android development**
-
-- 💬 Ask me about **C,C++,HTML, CSS, JavaScript, DSA**
+- 💬 Ask me about **C,C++,HTML, CSS, JavaScript,Python DSA**
 
 - 📫 How to reach me **ananyagoel5555001@gmail.com**
 
